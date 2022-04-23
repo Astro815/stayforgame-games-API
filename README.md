@@ -31,7 +31,7 @@ function loadApiSfg(file, callback) {
 <script src="./load_api_sfg.js"></script>
 ```
 5. E Finalizado! você já tem as informações dos jogos!
-## Incluso
+## Informações incluidas
 - Nome ```name```
 - Versão ```version```
 - Descrição ```dec```
