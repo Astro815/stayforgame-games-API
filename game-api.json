@@ -1,0 +1,165 @@
+{
+"games": {
+"pepedolls": {
+"name": "Pepe Dolls",
+"version": "1.9.0",
+"desc": "AJUDEM O PEPE! Ocorreu uma invasão de dollys zumbis, que estão transformando a todos e dollys zumbis, sobreviva a esse ataque!",
+"cmplay": "<b>Como Controlar o Personagem:</b><br>Use <b>WASD</b> ou as <b>SETAS DO TECLADO</b> para controlar o personagem.<br><br> Aperte <b>ESPAÇO</b> para atirar nos inimigos.<br><br> Aperte a letra <b>E</b> para entrar no carro.<br><br><b>Como Controlar o Carro:</b><br>Aperte <b>E</b> para Entrar/Sair do carro. Aperte <b>L</b> para ligar/desligar o GPS. Aperte <b>R</b> para Ligar/Desligar o rádio, Se quiser mudar de estação. Aperte <b>T</b>.<br><br><b>Jogar:</b><br>Aperte <b>P</b> para pausar o jogo, e aperte <b>C</b> para resetar os chuncks desalinhados.",
+"img": "https://stayforgame.indie.af/img/game/pepedolls.jpg",
+"cap": "https://stayforgame.indie.af/img/game/cap/cap_pepedolls.jpg",
+"itchio": "https://stayforgame.itch.io/pepe-dolls",
+"gamejolt": "https://gamejolt.com/games/pepedolls/592704",
+"news": {
+"added": [
+"Novo tutorial de como usar o jogo.",
+"Novo bioma de gelo.",
+"Adicionado Doll Yce.",
+"Adicionado Doll Eletric.",
+"Adicionado Doll Fire.",
+"Adicionado Coffe.",
+"Adicionado um 'Corretor' de Chuncks bugadas.",
+"Nova skin do Pepe ExtermiPepe.",
+"2 Novas musicas para o radio.",
+"Botão de exportasão de save para outra versão mais nova.",
+"Botão de importasão de save de uma versão mais antiga.",
+"Botão de pause para o modo de celular (Mobile)."
+],
+"modified": [
+"Nova tela de menu atualizada para ser mais dinamico.",
+"Musica de Menu alterada."
+],
+"remove": [
+"As chuvas do jogo foram removidas."
+],
+"remove_bug": [
+"Bugs das Chuncks não carregarem a partir de um pontos especifico.",
+"Chunck não ficarem totalmente alinhadas."
+]
+},
+"credit": [
+{
+"name": "@astro_815 - Filipe Gabriel",
+"function": "Geral",
+"link": "https://www.instagram.com/astro_815.0/"
+}
+]
+},
+"squidup": {
+"name": "Squid Up",
+"version": "1.0",
+"desc": "Você é uma lulinha, e tem que nadar para ganhar mais pontos e ir mais fundo!",
+"cmplay": "<b>Como Controlar o Personagem:</b><br>Arraste o seu dedo para definir a posição do personagem.",
+"img": "https://stayforgame.indie.af/img/game/squidup.jpg",
+"cap": "https://stayforgame.indie.af/img/game/cap/cap_squidup.webp",
+"itchio": null,
+"gamejolt": "https://gamejolt.com/games/squidup/664208",
+"news": {
+"added": [
+null
+],
+"modified": [
+null
+],
+"remove": [
+null
+],
+"remove_bug": [
+null
+]
+},
+"credit": [
+{
+"name": "@astro_815 - Filipe Gabriel",
+"function": "Geral",
+"link": "https://www.instagram.com/astro_815.0/"
+}
+]
+},
+"themanwhosurvive": {
+"name": "The Man Who Survive",
+"version": "1.0",
+"desc": "Você é um personagem pixelado onde tem a sua historia oculta (por enquanto) , onde que você está em um cemitério onde que começam aparecer zumbis para te matar!",
+"cmplay": "<b>Como controlar o player:</b><br> Use as setas para controlalo,use o mouse para mexer a espada (depois de comprala).",
+"img": "https://stayforgame.indie.af/img/game/themanwhosurvive.jpg",
+"cap": "https://stayforgame.indie.af/img/game/cap/cap_themanwhosurvive.webp",
+"itchio": null,
+"gamejolt": "https://gamejolt.com/games/mansurvives/539619",
+"news": {
+"added": [
+"Zumbi Roxo",
+"Zumbi Azul",
+"Player",
+"Espinhos",
+"Cenário Único",
+"Moeda Branca",
+"Moeda Gold",
+"Barra de Efeitos",
+"Controles de Som",
+"Shop",
+"Poção Azul",
+"Poção Vermelha",
+"Espada",
+"Modo Debug"
+],
+"modified": [
+null
+],
+"remove": [
+null
+],
+"remove_bug": [
+null
+]
+},
+"credit": [
+{
+"name": "@astro_815 - Filipe Gabriel",
+"function": "Geral",
+"link": "https://www.instagram.com/astro_815.0/"
+}
+]
+},
+"taikontitangame": {
+"name": "Taikon Titan Game",
+"version": "1.1",
+"desc": "Se proteja dos Titãns,Ataqueos e se divirta,a história do jogo está no anime <b>Shingeki no Kyojin</b>.",
+"cmplay": "<b>Como Controlar o Personagem:</b><br>Use <b>WASD</b> para controlar o personagem.<br>Aperte <b>ESPAÇO</b> para pular no jogo.<br>Aperte <b>ESPAÇO</b> para atacar no ar.",
+"img": "https://stayforgame.indie.af/img/game/taikontitangame.jpg",
+"cap": "https://stayforgame.indie.af/img/game/cap/cap_taikontitangame.webp",
+"itchio": null,
+"gamejolt": "https://gamejolt.net/?token=sqHdhJZeNkN5fVxcaFUEGjf5eqHMGg",
+"news": {
+"added": [
+null
+],
+"modified": [
+null
+],
+"remove": [
+null
+],
+"remove_bug": [
+null
+]
+},
+"credit": [
+{
+"name": "@astro_815 - Filipe Gabriel",
+"function": "Programação",
+"link": "https://www.instagram.com/astro_815.0/"
+},
+{
+"name": "@Lohan Torquato",
+"function": "Designer",
+"link": "link do instagram do lohan"
+}
+]
+}
+},
+"LCgame": [
+"pepedolls",
+"squidup",
+"themanwhosurvive",
+"taikontitangame"
+]
+}
